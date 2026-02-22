@@ -1,63 +1,30 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--              🤖  GEOMETRIC ROBOTICS HEADER  🤖            -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--   🤖  DILIP KUMAR · ROBOTICS ENGINEER · CINEMATIC HEADER  🤖   -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<!-- PRIMARY BANNER — PRESS START 2P pixel font, deep space + circuit teal -->
-<div align="center">
+<!-- ━━━  ACCENT TOP BAR  ━━━ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:003d3d,100:020817&height=6" width="100%"/>
 
+<!-- ━━━  BLOCK-LETTER ASCII TITLE — ROBOTICS  ━━━ -->
 ```
-██████╗ ██╗██╗      ██╗██████╗     ██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗
-██╔══██╗██║██║      ██║██╔══██╗    ██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗
-██║  ██║██║██║      ██║██████╔╝    █████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝
-██║  ██║██║██║      ██║██╔═══╝     ██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
-██████╔╝██║███████╗ ██║██║         ██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
-╚═════╝ ╚═╝╚══════╝ ╚═╝╚═╝         ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+██████╗  ██████╗ ██████╗  ██████╗ ████████╗██╗ ██████╗ ███████╗
+██╔══██╗██╔═══██╗██╔══██╗██╔═══██╗╚══██╔══╝██║██╔════╝ ██╔════╝
+██████╔╝██║   ██║██████╔╝██║   ██║   ██║   ██║██║      ███████╗
+██╔══██╗██║   ██║██╔══██╗██║   ██║   ██║   ██║██║      ╚════██║
+██║  ██╗╚██████╔╝██████╔╝╚██████╔╝   ██║   ██║╚██████╗ ███████║
+╚═╝  ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝   ╚═╝   ╚═╝ ╚═════╝ ╚══════╝
 ```
-</div>
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,30:0a0f2e,60:0d2137,100:003d3d&height=260&fontSize=78&fontColor=00FFCC&animation=fadeIn&fontAlignY=42&desc=◈%20ROBOTICS%20ENGINEER%20◈%20AI%20SYSTEMS%20◈%20EMBEDDED%20TECH%20◈&descAlignY=62&descSize=16&descColor=7DF9FF&stroke=00FFCC&strokeWidth=3&fontStyle=bold" width="100%"/>
 
-<!-- GEOMETRIC CIRCUIT DIVIDER TOP -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+**`◈ ── by DILIP KUMAR · Robotics Engineer · AI Systems · Embedded Tech ──  ◈`**
 
 <br/>
 
-<!-- ▓▓▓ PIXEL ROBOT ANIMATION ROW — Hacker + Robotics theme ▓▓▓ -->
-<table>
-<tr>
-<td width="22%" align="center">
+<!-- ━━━  ANIMATED CIRCUIT RULE  ━━━ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- Matrix / Hacker animation -->
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="130" height="130" alt="hacker-matrix"/>
-
-**`[ MATRIX ]`**
-
-</td>
-<td width="56%" align="center">
-
-<!-- Pixel Robot GIF -->
-<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="170" height="170" alt="pixel-robot"/>
-
-```
-╔══════════════════════════════════════╗
-║  ◈  ALL SYSTEMS OPERATIONAL  ◈      ║
-║  ⚡  ROS2 · AI · EMBEDDED · CV  ⚡  ║
-║  🤖  dilip-2006 :: ONLINE           ║
-╚══════════════════════════════════════╝
-```
-
-</td>
-<td width="22%" align="center">
-
-<!-- Robotic arm / circuit animation -->
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="130" height="130" alt="robot-circuit"/>
-
-**`[ NEURAL ]`**
-
-</td>
-</tr>
-</table>
+<br/>
 
 <br/>
 
@@ -66,41 +33,76 @@
 
 <br/>
 
-<!-- TITLE TYPING — Orbitron sci-fi font, electric cyan -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&pause=1400&color=00E5FF&center=true&vCenter=true&random=false&width=680&height=50&lines=◈+Robotics+%26+Mechatronics+Developer;◈+AI+%2F+Deep+Learning+Engineer;◈+Autonomous+Systems+%26+Control;◈+Computer+Vision+%7C+ROS2+%7C+MoveIt2;◈+Embedded+%26+Real-Time+Systems;◈+Building+Robots+That+Think+🤖" alt="Role Typing" />
+<!-- ━━━  3-COLUMN HUD PANEL  ━━━ -->
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="22%" align="center" valign="middle">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="120" height="120" alt="Matrix"/><br/>
+<sub><b><code>◈ MATRIX FEED ◈</code></b></sub>
+</td>
+<td width="56%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="155" height="155" alt="Robot"/>
+
+```
+┌─────────────────────────────────────────┐
+│  ◈  SYSTEM STATUS : FULLY OPERATIONAL   │
+│  ⚡  ROS2  ·  AI  ·  EMBEDDED  ·  CV   │
+│  🤖  PILOT : DILIP KUMAR  ::  ONLINE   │
+│  📍  SECTOR : INDIA  ·  UNIT #DK-2006  │
+└─────────────────────────────────────────┘
+```
+
+</td>
+<td width="22%" align="center" valign="middle">
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="120" height="120" alt="Neural"/><br/>
+<sub><b><code>◈ NEURAL  ◈</code></b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ━━━  TERMINAL BOOT SEQUENCE  ━━━ -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&pause=650&color=00FF88&background=00000000&center=true&vCenter=true&multiline=false&width=800&height=30&lines=▶+[INIT]+Robotics+OS+v4.0+..............+BOOTED+✓;▶+[ROS2]+Humble+Hawksbill+Node+...........+ACTIVE+✓;▶+[CV++]+MediaPipe+%2B+OpenCV+Pipeline+...+RUNNING+✓;▶+[ARM+]+6-DOF+Braccio+IK+Solver+.......+READY+✓;▶+[AI++]+Deep+Learning+Inference+Stack+.+LOADED+✓;▶+[EMB+]+Arduino+%2F+ESP32+%2F+STM32+......+LINKED+✓;▶+[SYS+]+Pilot+DILIP+KUMAR+..............+ONLINE+🤖" alt="Boot Sequence"/>
+
+<br/>
+
+<!-- ━━━  ROLE TYPING — Orbitron sci-fi font  ━━━ -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=21&pause=1500&color=00E5FF&center=true&vCenter=true&random=false&width=700&height=48&lines=◈+Robotics+%26+Mechatronics+Engineer;◈+AI+%2F+Deep+Learning+Developer;◈+Autonomous+Systems+%26+Motion+Control;◈+Computer+Vision+|+ROS2+|+MoveIt2;◈+Embedded+%26+Real-Time+Systems;◈+Building+Robots+That+Think+🤖" alt="Role Typing"/>
 
 <br/><br/>
 
-<!-- ── ROW 1: GEOMETRIC HUD STATUS INDICATORS ── -->
+<!-- ━━━  HUD STATUS BADGES ROW 1  ━━━ -->
 <p>
-  <img src="https://img.shields.io/badge/◈%20STATUS-ONLINE-00FF88?style=for-the-badge&labelColor=050510&color=00FF88"/>
+  <img src="https://img.shields.io/badge/◈%20STATUS-ONLINE-00FF88?style=for-the-badge&labelColor=020817&color=00FF88"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/◈%20MISSION-ROBOTICS%20%26%20AI-00E5FF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/◈%20MISSION-ROBOTICS%20%26%20AI-00E5FF?style=for-the-badge&labelColor=020817"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/◈%20PLATFORM-ROS2%20HUMBLE-22314E?style=for-the-badge&logo=ros&logoColor=white&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/◈%20PLATFORM-ROS2%20HUMBLE-1a2f4e?style=for-the-badge&logo=ros&logoColor=white&labelColor=020817"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/◈%20BASE-INDIA%20🇮🇳-FF6B35?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/◈%20BASE-INDIA%20🇮🇳-FF6B35?style=for-the-badge&labelColor=020817"/>
 </p>
 
-<!-- ── ROW 2: CONTACT & PROFILE LINKS ── -->
+<!-- ━━━  CONTACT & PROFILE BADGES ROW 2  ━━━ -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=dilip-2006&style=for-the-badge&color=00FFCC&label=PROFILE+VIEWS&labelColor=050510"/>
+  <img src="https://komarev.com/ghpvc/?username=dilip-2006&style=for-the-badge&color=00FFCC&label=PROFILE+VIEWS&labelColor=020817"/>
   &nbsp;
   <a href="mailto:letsmaildilip@gmail.com">
-    <img src="https://img.shields.io/badge/◈%20CONTACT-letsmaildilip%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050510"/>
+    <img src="https://img.shields.io/badge/◈%20CONTACT-letsmaildilip%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020817"/>
   </a>
   &nbsp;
   <a href="https://dkfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/◈%20PORTFOLIO-dkfolio.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=050510"/>
+    <img src="https://img.shields.io/badge/◈%20PORTFOLIO-dkfolio.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=020817"/>
   </a>
   &nbsp;
   <a href="https://github.com/dilip-2006">
-    <img src="https://img.shields.io/badge/◈%20GITHUB-dilip--2006-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=050510"/>
+    <img src="https://img.shields.io/badge/◈%20GITHUB-dilip--2006-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=020817"/>
   </a>
 </p>
 
-<!-- ANIMATED GEOMETRIC CIRCUIT DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<!-- ━━━  BOTTOM CIRCUIT RULE  ━━━ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 </div>
 
@@ -247,9 +249,7 @@ portfolio   : https://dkfolio.netlify.app/
 ## ⚡ Fun Zone
 
 <div align="center">
-### 🤖 A Random Robotics Quote For You:
-> *"The robot is not a replacement for the human – it is an extension of human capability."*
-
+*"The robot is not a replacement for the human – it is an extension of human capability."*
 </div>
 
 ---
